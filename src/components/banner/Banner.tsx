@@ -6,7 +6,7 @@ const Banner = () => {
       <div className={styles.banner_container}>
         <div className="w-[40%] flex justify-center pt-32">
           <div>
-            <h1 className="text-7xl font-bold">
+            <h1 className="text-7xl font-bold text-gray-800">
               Learn & Grow <br /> <span className="font-thin">Together</span>
             </h1>
             <button className="btn bg-fuchsia-800 text-white mt-4 hover:bg-fuchsia-950 ">

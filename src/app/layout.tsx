@@ -10,7 +10,8 @@ const roboto = Roboto({
 
 export const metadata: Metadata = {
   title: "Home | Book Net",
-  description:  "Discover, review, and rate your favorite books. Join a community of book lovers and share your reading experiences.",
+  description:
+    "Discover, review, and rate your favorite books. Join a community of book lovers and share your reading experiences.",
 };
 
 export default function RootLayout({
@@ -21,7 +22,9 @@ export default function RootLayout({
   return (
     <html lang="en">
       <body className={roboto.className}>
-        <div>{children}</div>
+        <div>
+          {children}
+        </div>
       </body>
     </html>
   );

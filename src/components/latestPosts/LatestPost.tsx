@@ -4,7 +4,7 @@ import { TPost } from "@/types";
 
 const LatestPost = ({ posts }: { posts: TPost[]}) => {
   return (
-    <div>
+    <div className="my-10 w-[90%] mx-auto">
       <h1 className="text-4xl text-center">
         Latest <span className="text-fuchsia-800">Posts</span>
       </h1>
