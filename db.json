@@ -206,6 +206,16 @@
       "postId": "9",
       "comment": "A must-read for fantasy fans.",
       "id": "2686"
+    },
+    {
+      "id": "4",
+      "postId": "1",
+      "comment": "this book is so good."
+    },
+    {
+      "id": "4",
+      "postId": "9",
+      "comment": "This book is much better than the movie."
     }
   ]
 }
